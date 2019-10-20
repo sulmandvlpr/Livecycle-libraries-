@@ -1,1 +1,2 @@
-Working of Lifecycle libraryies  Viewmodel and LiveData. 
+Working of Lifecycle libraries  Viewmodel and LiveData. 
+
